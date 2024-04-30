@@ -4,7 +4,7 @@
 
 This website is tribute to my favorite anime character, subaru, from the anime series called Re:Zero. This website showcases Subaru's journey as Subaru was an ordinary high school student before being suddenly summoned to another world known as Lugnica. After dying upon his arrival, he discovers his Return by Death ability and begins a journey to protect his newfound friends and prevent tragedy.
 
-## View live [Subaru](https://subaru.vercel.app/)
+## View live [Subaru](https://subarukun.vercel.app/)
 
 ![Output](https://graph.org/file/eb696a67fa03168de26da.png)
 
